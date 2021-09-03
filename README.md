@@ -9,9 +9,9 @@
 
 ---
 
-iOS developer working at Innvo Digital, Brazil.
+<h2>iOS developer working at Innvo Digital, Brazil. 🇧🇷 </h2>
 
-My contacts
+<h3>My contacts</h3>
 
 <div> 
   <a href = "mailto:hello@filipemarques.dev"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -22,8 +22,7 @@ My contacts
 </div>
 
 ---
-
-Toolbox
+<h3>Toolbox</h3>
 
 <div>
   <img 
@@ -47,4 +46,9 @@ Toolbox
 </div>
 
 ---
+
+<h3>Music for your soul</h3>
+    <a href="https://open.spotify.com/playlist/3Uvue1W7icOAVxdi7WFkF4?si=b4584b37c89f49bf" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+
+
 
