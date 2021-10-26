@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, i'm Filipe Marques
+### Hello there, i'm Filipe Marques
 
  <div>
   <a href="https://github.com/FilipeNMarques">
