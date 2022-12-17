@@ -8,7 +8,7 @@
 
 ---
 
-<h2>iOS developer working at Innvo Digital, Brazil. 🇧🇷 </h2>
+<h2>iOS developer 🇧🇷 </h2>
 
 <h3>My contacts</h3>
 
