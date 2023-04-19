@@ -1,10 +1,6 @@
 ### Hello there, i'm Filipe Marques
 
  <div>
-  <a href="https://github.com/FilipeNMarques">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipenmarques&layout=compact&langs_count=7&theme=dracula"/>
-</div>
- </a>
 
 ---
 
